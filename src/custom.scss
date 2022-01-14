@@ -1,0 +1,21 @@
+/*! `Custom` Bootstrap 5 theme */
+/*! `Custom` Bootstrap 5 theme */
+@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
+$headings-font-family: Muli;
+
+$enable-grid-classes: false;
+$primary: #2f3c48;
+$secondary: #6f7f8c;
+$success: #3e4d59;
+$danger: #cc330d;
+$info: #5c8f94;
+$warning: #6e9fa5;
+$light: #eceeec;
+$dark: #1e2b37;
+$enable-gradients: false;
+$spacer: 1.2rem;
+$border-width: 3px;
+$btn-border-radius: 0;
+
+@import "~bootstrap/scss/bootstrap.scss";
+// Add SASS theme customizations here..
