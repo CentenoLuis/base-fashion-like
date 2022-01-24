@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/base-fashion-like/static/css/main.327143ec.css",
+    "main.js": "/base-fashion-like/static/js/main.943d5fa0.js",
+    "index.html": "/base-fashion-like/index.html",
+    "main.327143ec.css.map": "/base-fashion-like/static/css/main.327143ec.css.map",
+    "main.943d5fa0.js.map": "/base-fashion-like/static/js/main.943d5fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327143ec.css",
+    "static/js/main.943d5fa0.js"
+  ]
+}
